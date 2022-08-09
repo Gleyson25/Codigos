@@ -1,0 +1,9 @@
+C:\Curso Programar\TesteDoForEach\TesteDoForEach\bin\Debug\TesteDoForEach.exe.config
+C:\Curso Programar\TesteDoForEach\TesteDoForEach\bin\Debug\TesteDoForEach.exe
+C:\Curso Programar\TesteDoForEach\TesteDoForEach\bin\Debug\TesteDoForEach.pdb
+C:\Curso Programar\TesteDoForEach\TesteDoForEach\obj\Debug\TesteDoForEach.csprojResolveAssemblyReference.cache
+C:\Curso Programar\TesteDoForEach\TesteDoForEach\obj\Debug\TesteDoForEach.frmTesteDoForEach.resources
+C:\Curso Programar\TesteDoForEach\TesteDoForEach\obj\Debug\TesteDoForEach.Properties.Resources.resources
+C:\Curso Programar\TesteDoForEach\TesteDoForEach\obj\Debug\TesteDoForEach.csproj.GenerateResource.Cache
+C:\Curso Programar\TesteDoForEach\TesteDoForEach\obj\Debug\TesteDoForEach.exe
+C:\Curso Programar\TesteDoForEach\TesteDoForEach\obj\Debug\TesteDoForEach.pdb
